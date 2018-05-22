@@ -1,2 +1,2 @@
-# NutLab
-基础组件化项目，项目基础架构(待完善)
+# ComponentProject
+组件化项目实战（MVP+Retrofit2+RxJava2+组件化）
